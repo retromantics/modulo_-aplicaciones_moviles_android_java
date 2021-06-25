@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwitchControl</string>
+    <string name="switch1">Mostrar Banderita</string>
+</resources>
