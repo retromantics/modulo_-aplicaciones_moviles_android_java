@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         sw= (Switch)findViewById(R.id.switch1);
         img= (ImageView)findViewById(R.id.imageView);
-
+        img.setVisibility(View.INVISIBLE);
         sw.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
