@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConexionBD</string>
+    <string name="txtCod">Ingrese Codigo Producto</string>
+    <string name="txtNom">Ingrese Nombre Producto</string>
+    <string name="txtValor">Ingrese Valor Producto</string>
+    <string name="btnAdd">Agregar Producto</string>
+    <string name="btnSearch">Buscar Producto</string>
+    <string name="btnDel">Eliminar Producto</string>
+    <string name="btnUpdate">Modificar Producto</string>
+</resources>

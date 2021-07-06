@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CambioActivity</string>
+    <string name="Button">Siguiente</string>
+    <string name="TextView">Estas en la Activity 1</string>
+    <string name="button2">Volver</string>
+    <string name="textView2">Estas en la Activity 2</string>
+</resources>
